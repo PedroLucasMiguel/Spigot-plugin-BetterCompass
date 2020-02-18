@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="BetterCompass:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27564295-010f-40c9-85be-454477be3daa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XtVSDICp9ta2pu2n4JT8ubVYlj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Libraries/spigot-api-1.15.2-R0.1-SNAPSHOT-shaded.jar!/" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27564295-010f-40c9-85be-454477be3daa" name="Default Changelist" comment="" />
+      <created>1581865376015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581865376015</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="525" y="144" key="#com.intellij.ide.util.MemberChooser" timestamp="1581892351259">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="525" y="144" key="#com.intellij.ide.util.MemberChooser/0.0.1440.870@0.0.1440.870" timestamp="1581892351259" />
+    <state x="450" y="218" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581866198816">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="450" y="218" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.870@0.0.1440.870" timestamp="1581866198815" />
+    <state x="426" y="176" key="FileChooserDialogImpl" timestamp="1581944649250">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="426" y="176" key="FileChooserDialogImpl/0.0.1440.870@0.0.1440.870" timestamp="1581944649250" />
+    <state x="200" y="9" key="SettingsEditor" timestamp="1581866202503">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="200" y="9" key="SettingsEditor/0.0.1440.870@0.0.1440.870" timestamp="1581866202503" />
+    <state x="424" y="328" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1581880181773">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="424" y="328" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.870@0.0.1440.870" timestamp="1581880181773" />
+    <state x="102" y="55" key="new project wizard" timestamp="1581944651923">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="102" y="55" key="new project wizard/0.0.1440.870@0.0.1440.870" timestamp="1581944651923" />
+    <state x="383" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1581868753360">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="383" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1440.870@0.0.1440.870" timestamp="1581868753360" />
+  </component>
+</project>

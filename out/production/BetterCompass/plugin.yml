@@ -1,0 +1,18 @@
+name: BetterCompass
+main: com.predo.listeners.Main
+version: 0.0.1
+api-version: 1.15
+author: PredoFogo
+commands:
+    criarponto:
+      description: Cria um novo ponto de bússola no servidor
+      usage: /criarponto
+    mostrarpontos:
+      description: Mostra os pontos de bússsola salvos no servidor
+      usage: /criarponto nome
+    removerponto:
+      description: Remove um ponto de bússola do servidor
+      usage: /removerponto nome
+    ponto:
+      description: Troca o ponto para o qual a bússola do jogasdor aponta
+      usage: /ponto nome
